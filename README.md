@@ -97,12 +97,12 @@ package main
 import "fmt"
 
 func main() {
-	var nombre,edad int
+	var codigo,edad int
 
-	nombre = "mi nombre"
+	codigo = 122832
 	edad = 40
 
-	fmt.Println(nombre)
+	fmt.Println(codigo)
 	fmt.Println(edad)
 }
 
